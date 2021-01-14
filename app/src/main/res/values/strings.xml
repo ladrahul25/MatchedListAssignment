@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shaadi Assignment</string>
+    <string name="splash_logo_description">splash logo</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+    <string name="users_photo">users photo</string>
+    <string name="no_data">No data found</string>
+</resources>
